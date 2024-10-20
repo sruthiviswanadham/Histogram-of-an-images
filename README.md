@@ -24,7 +24,7 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ### Developed By: Viswanadham venkata sai sruthi
-### Register Number: 212223240069
+### Register Number: 212223100061
 ### Input Grayscale Image and Color Image
 ## Gray Image:
 
